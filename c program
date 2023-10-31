@@ -1,5 +1,7 @@
 #include(studio.h>
 void main()
 {
- print("Hello World...!!!");
+ printf("Hello World...!!!");
+
+ printf("/nThis is the vbasic C program");
 }
